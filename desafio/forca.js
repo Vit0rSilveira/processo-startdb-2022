@@ -26,6 +26,8 @@ class Forca {
    * @returns
    */
   chutar(letra) {
+    letra = letra.toLowerCase();
+    
     if (!this.chuteEhValido(letra))
       return;
     
