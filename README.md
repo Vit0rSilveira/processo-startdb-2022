@@ -1,2 +1,2 @@
 # O desafio da forca
-Desafio proposto no processo seletivo startdb-2022
+Desafio proposto no processo seletivo Start DB 2022
